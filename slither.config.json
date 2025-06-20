@@ -1,0 +1,4 @@
+{
+  "detectors_to_exclude": "naming-convention,unused-return,weak-prng",
+  "filter_paths": "(lib/|test/)"
+}
